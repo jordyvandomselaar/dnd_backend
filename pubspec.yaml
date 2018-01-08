@@ -1,0 +1,4 @@
+name: dungeons_and_dragons_backend
+dependencies:
+  shelf:
+  sqljocky5:
